@@ -994,7 +994,7 @@ In this step, we will render few more components from Watson IoT Patterns and As
     ![image](./images/6dc05080-bd43-11ea-8019-207cf2e0a7ac.png)
     ![image](./images/9cd6c200-bd43-11ea-850a-92426f0524e6.png)
 
-At this stage your SampleApp directory should look like [this](./src/6_creating_dashboard_in_TRIRIGA_perceptive_app/Sample)
+At this stage your SampleApp directory should look like [this](./src/6_creating_dashboard_in_TRIRIGA_perceptive_app/SampleApp)
 
 
 ## License
